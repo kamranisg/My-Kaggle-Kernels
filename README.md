@@ -2,7 +2,7 @@
 
 Find my Kaggle Kernels in this repository
  
- ## 1. Zoo Anomal Classification 
+ ## 1. Zoo Animals Classification over various techniques
  
 This dataset consists of 101 animals from a zoo. There are 16 variables with various traits to describe the animals. The 7 Class Types are: Mammal, Bird, Reptile, Fish, Amphibian, Bug and Invertebrate
 
